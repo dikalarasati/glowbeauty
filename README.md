@@ -98,30 +98,30 @@ File `lib/services/product_service.dart` memuat method `fetchProducts()` yang me
 ### Halaman Utama
 Daftar produk berupa kartu: gambar, nama, brand & jenis, harga, dan rating. Terdapat 54 produk Maybelline dari API.
 
-![Halaman utama GlowBeauty](dokumentasi/01-home.png)
+![Halaman utama GlowBeauty](dokumentasi/01-home.jpeg)
 
 ### Pencarian Real-time
 Mengetik `mascara` pada search bar langsung memfilter daftar menjadi 11 produk.
 
-![Pencarian produk](dokumentasi/02-pencarian.png)
+![Pencarian produk](dokumentasi/02-pencarian.jpeg)
 
 ### Filter Jenis Produk
 Memilih chip **Eyeliner** hanya menampilkan produk eyeliner (8 produk).
 
-![Filter jenis produk](dokumentasi/03-filter.png)
+![Filter jenis produk](dokumentasi/03-filter.jpeg)
 
 ### Halaman Detail
 Menampilkan foto besar, brand, jenis, kategori, harga, rating, dan deskripsi lengkap produk.
 
-![Halaman detail produk](dokumentasi/04-detail.png)
+![Halaman detail produk](dokumentasi/04-detail.jpeg)
 
 ### State Loading
-![State loading](dokumentasi/05-loading.png)
+![State loading](dokumentasi/05-loading.jpeg)
 
 ### State Error
 Muncul saat koneksi gagal, lengkap dengan tombol Coba Lagi.
 
-![State error](dokumentasi/06-error.png)
+![State error](dokumentasi/06-error.jpeg)
 
 ## Package yang Digunakan
 
