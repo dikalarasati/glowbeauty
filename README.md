@@ -3,7 +3,7 @@
 Aplikasi katalog produk makeup **Maybelline** berbasis Flutter yang mengambil data secara asinkron dari [Makeup API](https://makeup-api.herokuapp.com/) dan menampilkannya dengan `FutureBuilder`.
 
 > Proyek Ujian Tengah Semester (UTS) — Pemrograman Mobile.
-> Penulis: **<Dika Larasati>** · NIM **<240605110028>** · <Teknik Informatika>, <UIN Malang>
+> Penulis: **Dika Larasati** · NIM **240605110028** · Teknik Informatika, UIN Malang
 
 ## Deskripsi Singkat
 
