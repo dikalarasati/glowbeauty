@@ -134,8 +134,8 @@ Muncul saat koneksi gagal, lengkap dengan tombol Coba Lagi.
 1. Pastikan **Flutter SDK** dan Android Studio sudah terpasang (`flutter doctor`).
 2. Clone repositori:
    ```bash
-   git clone https://github.com/<username>/<nama-repo>.git
-   cd <nama-repo>
+   git clone https://github.com/dikalarasati/glowbeauty.git
+   cd glowbeauty
    ```
 3. Pasang dependensi:
    ```bash
